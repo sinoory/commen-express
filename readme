@@ -1,0 +1,5 @@
+    express -h ; express -e <dir>
+
+    add app.listen(3002) in app.js ; npm install dependence ; run node app.js ok
+
+    mv original welcome page [index.ejs style.css] to prjs/orig
